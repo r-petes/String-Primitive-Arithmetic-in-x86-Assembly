@@ -1,1 +1,4 @@
 # String-Primitive-Arithmetic-in-x86-Assembly
+
+
+This program prompts the user for 10 signed decimal integers that will fit within a 32-bit register. It validates those numbers and re-prompts if the number is too big or too small, something other than a number, a "-" or a "+", or if the user did not enter a number. It will convert the strings into an array of integers in order to do arithmetic calculations. Then it converts those integers back to strings and prints out each string that the user entered. After that, the program converts the string input to an integer, calculates the total sum of all ten numbers, and their average, and converts those numbers from integers into strings that it then will display along with their corresponding labels. 
